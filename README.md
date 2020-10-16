@@ -4,11 +4,11 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedS-DEV&langs_count=10&layout=compact)](https://github.com/RedS-DEV/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedS-DEV&langs_count=10&layout=compact&theme=tokyonight)](https://github.com/RedS-DEV/)
 
 
 
-[![Enes Genç's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedS)](https://wakatime.com/@RedS)
+[![Enes Genç's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedS&theme=tokyonight)](https://wakatime.com/@RedS)
 
 
 
