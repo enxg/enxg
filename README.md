@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![RedS-DEV's github stats](https://github-readme-stats.vercel.app/api?username=RedS-DEV&show_icons=true&count_private=true&theme=tokyonight)
+
+
 <!--
 **RedS-DEV/RedS-DEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
