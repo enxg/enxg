@@ -1,9 +1,13 @@
 ### Hi there 👋
 
 ![Enes Genç's github stats](https://github-readme-stats.vercel.app/api?username=RedS-DEV&show_icons=true&count_private=true&theme=tokyonight)
-\n
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedS-DEV&langs_count=10&layout=compact)](https://github.com/RedS-DEV/)
-\n
+
+
+
 [![Enes Genç's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedS)](https://wakatime.com/@RedS)
 
 
