@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![RedS-DEV's github stats](https://github-readme-stats.vercel.app/api?username=RedS-DEV&show_icons=true&count_private=true&theme=tokyonight)
+![Enes Genç's github stats](https://github-readme-stats.vercel.app/api?username=RedS-DEV&show_icons=true&count_private=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedS-DEV&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
