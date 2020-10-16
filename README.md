@@ -8,7 +8,7 @@
 
 
 
-[![Enes Genç's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@RedS&theme=tokyonight)](https://wakatime.com/@RedS)
+[![Enes Genç's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=reds&theme=tokyonight)](https://wakatime.com/@RedS)
 
 
 
