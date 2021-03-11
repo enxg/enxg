@@ -19,9 +19,9 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on [RedS-DEV/portfolio](https://github.com/RedS-DEV/portfolio)
+- 🔭 I’m currently working on [RedS-DEV/Portfolio](https://github.com/RedS-DEV/Portfolio)
 - 🌱 I’m currently learning **Vue.js & Nuxt.js & PHP Laravel**
-- 📫 How to reach me: **Discord:** RedS#6100 [Mail: hello@enesgenc.gen.tr](mailto:hello@enesgenc.gen.tr) [Contact Form](https://enesgenc.gen.tr/contact)
+- 📫 How to reach me: **Discord:** RedS#6100 [Mail: hello@enesgenc.gen.tr](mailto:hello@enesgenc.gen.tr) [Others](https://enesgenc.gen.tr/contact)
 <!-- - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... --->
@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RedS-DEV&repo=portfolio%theme=radical)](https://github.com/RedS-DEV/portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RedS-DEV&repo=Portfolio%theme=radical)](https://github.com/RedS-DEV/Portfolio)
