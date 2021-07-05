@@ -10,7 +10,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on [RedS-DEV/Portfolio](https://github.com/RedS-DEV/Portfolio)
+<!-- - 🔭 I’m currently working on [RedS-DEV/Portfolio](https://github.com/RedS-DEV/Portfolio) -->
 - 🌱 I’m currently learning **Vue.js & Nuxt.js**
 - 📫 How to reach me: **Discord:** RedS#6100 [Mail: hello@enesgenc.gen.tr](mailto:hello@enesgenc.gen.tr) 
 <!-- - 👯 I’m looking to collaborate on ... 
