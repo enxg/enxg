@@ -6,7 +6,7 @@ I've been coding for 2+ years. I started as a mobile developer, I'm mainly worki
 * 🌍  I'm based in Istanbul, Turkiye
 * 🖥️  See my portfolio at [enes.ovh](http://enes.ovh)
 * ✉️  You can contact me at [hello@enes.ovh](mailto:hello@enes.ovh)
-* 🧠  I'm learning Rust and C#
+* 🧠  I'm currently learning Rust and C#
 
 ### Skills
 
