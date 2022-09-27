@@ -38,3 +38,7 @@ I've been coding for 2+ years. I started as a mobile developer, I'm mainly worki
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/enxg"><img src="https://github-readme-stats.vercel.app/api?username=enxg&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="enxg's GitHub stats" /></a>
+
+<b>My Holopin Board</b>
+
+[![@enxg's Holopin board](https://holopin.io/api/user/board?user=enxg)](https://holopin.io/@enxg)
