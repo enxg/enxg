@@ -1,11 +1,13 @@
+[![@enxg's Holopin board](https://holopin.io/api/user/board?user=enxg)](https://holopin.io/@enxg)
+
 Hi 👋 My name is Enes
 =====================
 
 I've been coding for 2+ years. I started as a mobile developer, I'm mainly working on backend right now.
 
 * 🌍  I'm based in Istanbul, Turkiye
-* 🖥️  See my portfolio at [enes.ovh](http://enes.ovh)
-* ✉️  You can contact me at [hello@enes.ovh](mailto:hello@enes.ovh)
+* 🖥️  See my portfolio at [enesgenc.dev](http://enesgenc.dev)
+* ✉️  You can contact me at [hello@enesgenc.dev](mailto:hello@enesgenc.dev)
 * 🧠  I'm currently learning Rust and C#
 
 ### Skills
@@ -38,7 +40,3 @@ I've been coding for 2+ years. I started as a mobile developer, I'm mainly worki
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/enxg"><img src="https://github-readme-stats.vercel.app/api?username=enxg&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="enxg's GitHub stats" /></a>
-
-<b>My Holopin Board</b>
-
-[![@enxg's Holopin board](https://holopin.io/api/user/board?user=enxg)](https://holopin.io/@enxg)
