@@ -6,7 +6,7 @@ Hi 👋 My name is Enes
 I've been coding for 2+ years. I started as a mobile developer, I'm mainly working on backend right now.
 
 * 🌍  I'm based in Istanbul, Turkiye
-* 🖥️  See my portfolio at [enesgenc.dev](http://enesgenc.dev)
+* 🖥️  See my portfolio at [enesgenc.dev](https://enesgenc.dev)
 * ✉️  You can contact me at [hello@enesgenc.dev](mailto:hello@enesgenc.dev)
 * 🧠  I'm currently learning Rust and C#
 
